@@ -28,6 +28,7 @@ public class Method2 {
 		int subresult2=m2.sub(sumresult, 2);
 		int finalresult=m2.divide(subresult2, 2);
 		
+		
 		System.out.println("Final result of equation (((((10*2)-2)+2)-2)/2) is: "+ finalresult);
 	}	
 }
